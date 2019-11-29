@@ -1,0 +1,13 @@
+================================================                                                
+Virtualhost infomation:                                                                         
+Your domain: w.yee.com                                                                          
+Home Directory: /home/wwwroot/w.yee.com                                                         
+Rewrite: laravel                                                                                
+Enable log: yes                                                                                 
+Database username: wu                                                                           
+Database userpassword: yeecoffee                                                                
+Database Name: wu                                                                               
+Create ftp account: no                                                                          
+================================================ 
+nas_user wuqingbao
+pass yeecoffee
